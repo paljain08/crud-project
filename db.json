@@ -1,0 +1,52 @@
+{
+  "employeeDetails": [
+    {
+      "id": 4,
+      "fname": "pallavi",
+      "lname": "jain",
+      "age": "12",
+      "department": "computer",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "fname": "Kanchan",
+      "lname": "Kumari",
+      "age": "22",
+      "department": "Science",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "fname": "Pratik",
+      "lname": "Misal",
+      "age": "23",
+      "department": "English",
+      "gender": "Male"
+    },
+    {
+      "id": 7,
+      "fname": "Prajakta",
+      "lname": "Kaur",
+      "age": "24",
+      "department": "Biology",
+      "gender": "Female"
+    },
+    {
+      "id": 8,
+      "fname": "Surbhi",
+      "lname": "Vishwakarma",
+      "age": "24",
+      "department": "Maths",
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "fname": "Rupali",
+      "lname": "Jain",
+      "age": "34",
+      "department": "Computer",
+      "gender": "Female"
+    }
+  ]
+}
